@@ -1,0 +1,4 @@
+// install react app
+// npx create-react-app app-name
+// cd app-name-> change directory
+//npm start ->to run the react 
